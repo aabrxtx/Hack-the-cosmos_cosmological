@@ -90,12 +90,6 @@ The robot:
 
 ---
 
-## 📹 Demo (Optional)
-
-If you recorded a video during the hackathon, upload it to YouTube or Google Drive and share the link here.
-
----
-
 ## 📚 Credits
 
 - Built by Aabriti Roy during a 2-day hackathon
